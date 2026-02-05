@@ -1,3 +1,4 @@
+#multiple inheritance
 class Camera:
     def __init__(self, camera_quality):
         self.camera_quality = camera_quality
